@@ -32,13 +32,3 @@ I'm a full stack developer, currently graduated in computer science. I'm passion
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-plain-wordmark.svg" alt="MongoDB" width="30px" height="30px">
     <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="Visual Studio Code" width="30px" height="30px">
 </div>
-
-<style>
-    #social-media a {
-        margin-right: 10px !important;
-        background-color: yellow;
-    }
-    #languages-and-tools img:not(:first-child) {
-        margin-left: 10px;
-    }
-</style>
