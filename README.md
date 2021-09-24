@@ -49,7 +49,7 @@ I'm a full stack developer, currently graduated in computer science. I'm passion
     <a href="mailto:dssjunior98@gmail.com/">
         <img class="social-badge-item" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" style="margin-right: 5px; border-radius: 20px;">
     </a>
-    <a href="mailto:dssjunior98@gmail.com/">
+    <a href="t.me/denilsonssj">
         <img class="social-badge-item" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" style="margin-right: 5px; border-radius: 20px;">
     </a>
     <a href="https://discordapp.com/users/denilsonssj#1832">
