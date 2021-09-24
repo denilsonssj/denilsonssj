@@ -37,22 +37,22 @@ I'm a full stack developer, currently graduated in computer science. I'm passion
 <h2>Connect with me</h2>
 
 <div class="social-badges">
-    <a href="https://www.linkedin.com/in/denilsonssj">
-        <img class="social-badge-item" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" style="margin-right: 5px; border-radius: 20px;">
+    <a href="https://www.linkedin.com/in/denilsonssj" style="margin-right: 5px">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28px" alt="Linkedin" style="border-radius: 5px;">
     </a>
-    <a href="https://github.com/denilsonssj">
-        <img class="social-badge-item" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="Github" style="margin-right: 5px; border-radius: 20px;">
+    <a href="https://github.com/denilsonssj" style="margin-right: 5px">
+        <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="28px" alt="Github" style="border-radius: 5px;">
     </a>
-    <a href="https://gitlab.com/denilsonssj">
-        <img class="social-badge-item" src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" alt="Gitlab" style="margin-right: 5px; border-radius: 20px;">
+    <a href="https://gitlab.com/denilsonssj" style="margin-right: 5px">
+        <img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" height="28px" alt="Gitlab" style="margin-right: 5px; border-radius: 5px;">
     </a>
-    <a href="mailto:dssjunior98@gmail.com/">
-        <img class="social-badge-item" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" style="margin-right: 5px; border-radius: 20px;">
+    <a href="mailto:dssjunior98@gmail.com/" style="margin-right: 5px">
+        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="28px" alt="Gmail" style="margin-right: 5px; border-radius: 5px;">
     </a>
-    <a href="https://t.me/denilsonssj">
-        <img class="social-badge-item" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" style="margin-right: 5px; border-radius: 20px;">
+    <a href="https://t.me/denilsonssj" style="margin-right: 5px">
+        <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" height="28px" alt="Telegram" style="margin-right: 5px; border-radius: 5px;">
     </a>
-    <a href="https://discordapp.com/users/denilsonssj#1832">
-        <img class="social-badge-item" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" style="margin-right: 5px; border-radius: 20px;">
+    <a href="https://discordapp.com/users/denilsonssj#1832" style="margin-right: 5px">
+        <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" height="28px" alt="Discord" style="margin-right: 5px; border-radius: 5px;">
     </a>
 </div>
